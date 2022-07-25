@@ -4,6 +4,7 @@ I am a 4th-year Ph.D. candidate at University of Texas at Austin. I worked with 
 
 📫 **Contact me by**:
 - Email (zhengzhong.tu [AT] utexas.edu)
+- [知乎:「假熊猫」](https://www.zhihu.com/people/tu-zheng-zhong)
 - [Linkedin](https://www.linkedin.com/in/vztu/)
 - [Scholar](https://scholar.google.com/citations?user=9ajdZaEAAAAJ&hl=en&authuser=2)
 
