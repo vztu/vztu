@@ -1,9 +1,11 @@
 ### Hi there, I am Zhengzhong Tu 👋
 
-I am a 4th-year Ph.D. candidate at University of Texas at Austin. I worked with Professor [Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) in the [LIVE Lab](https://live.ece.utexas.edu/). I have been working on Video Quality, Video Image Processing, and Computer Vision.
+**我正在招生，详情请见[个人主页](https://vztu.github.io).**
+
+I am currently an AI researcher at Google Research. I graduated from UT Austin ECE, where I worked with Professor [Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) in the [LIVE Lab](https://live.ece.utexas.edu/).
 
 📫 **Contact me by**:
-- Email (zhengzhong.tu [AT] utexas.edu)
+- [个人主页](https://vztu.github.io)
 - [知乎:「假熊猫」](https://www.zhihu.com/people/tu-zheng-zhong)
 - [Twitter](https://twitter.com/_vztu)
 - [Linkedin](https://www.linkedin.com/in/vztu/)
