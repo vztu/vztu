@@ -2,7 +2,9 @@
 
 **我正在招生，详情请见[个人主页](https://vztu.github.io).**
 
-I am currently an AI researcher at Google Research. I graduated from UT Austin ECE, where I worked with Professor [Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) in the [LIVE Lab](https://live.ece.utexas.edu/).
+I'm an Assistant Professor of Computer Science at Texas A&M University. Previously, I was an AI researcher at Google Research. 
+
+I graduated from UT Austin ECE, where I worked with Professor [Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) in the [LIVE Lab](https://live.ece.utexas.edu/).
 
 📫 **Contact me by**:
 - [Website](https://vztu.github.io)
