@@ -5,7 +5,7 @@
 I am currently an AI researcher at Google Research. I graduated from UT Austin ECE, where I worked with Professor [Alan Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) in the [LIVE Lab](https://live.ece.utexas.edu/).
 
 📫 **Contact me by**:
-- [个人主页](https://vztu.github.io)
+- [Website](https://vztu.github.io)
 - [知乎:「假熊猫」](https://www.zhihu.com/people/tu-zheng-zhong)
 - [Twitter](https://twitter.com/_vztu)
 - [Linkedin](https://www.linkedin.com/in/vztu/)
